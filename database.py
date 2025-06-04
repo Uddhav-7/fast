@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker
 
 # 🔁 Replace these values with your actual MySQL config:
 USERNAME = "root"
-PASSWORD = "1234"
+PASSWORD = "Uddhav07"
 HOST = "localhost"
 DB_NAME = "fastapi_users"
 
